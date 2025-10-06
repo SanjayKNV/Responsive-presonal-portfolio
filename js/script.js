@@ -56,7 +56,7 @@ navLink.forEach(link => {
 
 // TYPEWRITER EFFECT
 new Typewriter('#typewriter', {
-  strings: ['Photonics Researcher', 'Freelancing in websites, 3D'],
+  strings: ['Photonics Researcher', 'Freelancing in designing websites, 3D Modelling'],
   autoStart: true,
   loop: true,
   cursor: "|"
